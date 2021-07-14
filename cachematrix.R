@@ -1,4 +1,4 @@
-## insert a referral element to a matrix
+## inserting a recommended element to a matrix
 ## the r representation serves as the matrix name
 
 makeCacheMatrix <- function(x = matrix()) {
